@@ -1,0 +1,9 @@
+.cabecalho, .principal{
+    background-color: darkgreen;
+    color: aliceblue;
+}
+
+.rodape {
+    background-color: black;
+    color: aliceblue;
+}
